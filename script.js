@@ -1,9 +1,7 @@
 // 1. Write a console.log() statement that answers the following question: What worked
 // well for you over the last 9 weeks that aided in your learning process?
 
-console.log(
-  "What worked well for you over the last 9 weeks that aided in your learning process?"
-);
+console.log("What worked well for you over the last 9 weeks that aided in your learning process?");
 console.log("Utilizing function techniques and repetition were effective. Also, engaging in discussions and projects helped reinforce my understanding of the material.");
 console.log("");
 
@@ -24,8 +22,6 @@ console.log("");
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
 
-console.log(
-  "What concepts were new to you and what concepts had you encountered already in the past?"
-);
-console.log("Advanced algorithms and the intricacies of calling functions were new to me. Familiar concepts and basic programming principles is what I encountered already.");
+console.log("What concepts were new to you and what concepts had you encountered already in the past?");
+console.log("Advanced algorithms and the intricacies of calling functions were new to me. Familiar concepts and basic programming principles are what I encountered already.");
 console.log("");
